@@ -13,4 +13,9 @@ In addition a data set of the movies includes the movie name and genres.
 * **title**
 * **genres**
 
+[Dataset Source Link](https://grouplens.org/datasets/movielens/)
 For better understanding of this project, Visit https://youtu.be/n3RKsY2H-NE
+
+## Requirements:
+numpy==1.21.0; platform_system == "Windows"
+pandas==1.3.0; platform_system == "Windows"
